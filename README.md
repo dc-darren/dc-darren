@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I’m Darren 👋
+
+- 🇮🇩 I’m from Indonesia
+- 🌱 I’m currently learning Front-End Frameworks such as [Tailwind CSS](https://tailwindcss.com/) and [Next.js](https://nextjs.org/)
+- 👯 I’m looking to collaborate on Mini Projects of anything
+- 💬 Ask me about anything by [email](mailto:darren.denisson@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Started programming without interest at first 😯
 
 <!--
 **dc-darren/dc-darren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
