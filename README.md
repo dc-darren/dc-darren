@@ -1,4 +1,4 @@
-### Hi there, I’m Darren 🇮🇩 👋
+### Hi there, I’m Darren 🇮🇩👋
 
 - 🌱 I’m currently learning Front-End Frameworks such as [Tailwind CSS](https://tailwindcss.com/) and [Next.js](https://nextjs.org/)
 - 👯 I’m looking to collaborate on Mini Projects of anything
