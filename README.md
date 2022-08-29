@@ -1,9 +1,8 @@
-### Hi there, I’m Darren 👋
+### Hi there, I’m Darren 🇮🇩 👋
 
-- 🇮🇩 I’m from Indonesia
 - 🌱 I’m currently learning Front-End Frameworks such as [Tailwind CSS](https://tailwindcss.com/) and [Next.js](https://nextjs.org/)
 - 👯 I’m looking to collaborate on Mini Projects of anything
-- 💬 Ask me about anything by [email](mailto:darren.denisson@gmail.com)
+- 💬 Ask me about anything by emailing to [darren.denisson@gmail.com](mailto:darren.denisson@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Started programming without interest at first 😯
 
