@@ -1,6 +1,6 @@
 ### Hi there, I’m Darren 🇮🇩👋
 
-- 🌱 I’m currently learning Front-End Frameworks such as [Tailwind CSS](https://tailwindcss.com/) and [Next.js](https://nextjs.org/)
+- 🌱 I’m interested in learning Front-End and Back-End Frameworks to build great websites
 - 👯 I’m looking to collaborate on Mini Projects of anything
 - 💬 Ask me about anything by emailing to [darren.denisson@gmail.com](mailto:darren.denisson@gmail.com)
 - 😄 Pronouns: He/Him
